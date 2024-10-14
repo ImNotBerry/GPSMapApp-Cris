@@ -1,2 +1,0 @@
-# .GPSMapApp
-15% 
